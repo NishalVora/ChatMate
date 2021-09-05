@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799898484720",
+    "project_id": "flutterchatbox-c2b76",
+    "storage_bucket": "flutterchatbox-c2b76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799898484720:android:3cd714636a54cb270da735",
+        "android_client_info": {
+          "package_name": "com.example.ChatMate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799898484720-n0orjn3aos11dpc15cshg85mm4clf7le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs_j_TuZP2tF9YFCRVwxwc8f0Jzoi0Rzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799898484720-n0orjn3aos11dpc15cshg85mm4clf7le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
